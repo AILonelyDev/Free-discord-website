@@ -2,9 +2,6 @@
 
 This is a modern, feature-rich landing page for a Discord server, designed to be hosted for free on GitHub Pages.
 
-![Page Preview](URL_OF_YOUR_SCREENSHOT)
-*(Tip: Once the site is live, take a screenshot and replace the URL above for a nice preview)*
-
 ## 🎨 Features
 
 - **Modern & Dark Design**: A stylish interface that highlights your community.
